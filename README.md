@@ -8,4 +8,4 @@ Libraries needed to run programs :
 4.PIL
 5.matplotlib
 
-Project is under construction some features are built but not merged into main window. Work is in progress soon you will se final product.
+Project is under construction some features are built but not merged into main window. Work is in progress soon you will see final product.
