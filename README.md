@@ -1,6 +1,8 @@
 # APIHacks_MPs
 Team Name : Monish Ranjan, Deeksha Bhatnagar, Dhruv Aggarwal, Shreya Dixit
 
+Project Name : Voting System 
+
 Libraries needed to run programs : 
 1.TKinter
 2.Sqlite3
